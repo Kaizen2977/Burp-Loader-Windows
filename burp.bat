@@ -1,0 +1,1 @@
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\Decrypt3r\Desktop\burp\loader.jar" -noverify -jar "C:\Users\Decrypt3r\Desktop\burp\burpsuite_pro_v2022.1.jar"
